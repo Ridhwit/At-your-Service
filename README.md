@@ -45,14 +45,14 @@ This platform presents a scalable business model for on-demand services by suppo
 
 ---
 ## 🚀Dependencies used:
-📱 curved_navigation_bar: For smooth navigation bar UI elements.
-🔑 firebase_core: To initialize Firebase in the Flutter project.
-📊 cloud_firestore: For managing and querying service-related data in Firestore.
-🔐 firebase_auth: For user authentication and secure login functionality.
-🔢 random_string: To generate random IDs for unique entries.
-💾 shared_preferences: For storing user data locally.
-🖼️ image_picker: To select images from the gallery for service uploads.
-📤 firebase_storage: For secure image storage and retrieval from Firebase.
+- 📱 curved_navigation_bar: For smooth navigation bar UI elements.
+- 🔑 firebase_core: To initialize Firebase in the Flutter project.
+- 📊 cloud_firestore: For managing and querying service-related data in Firestore.
+- 🔐 firebase_auth: For user authentication and secure login functionality.
+- 🔢 random_string: To generate random IDs for unique entries.
+- 💾 shared_preferences: For storing user data locally.
+- 🖼️ image_picker: To select images from the gallery for service uploads.
+- 📤 firebase_storage: For secure image storage and retrieval from Firebase.
 
 ---
 
