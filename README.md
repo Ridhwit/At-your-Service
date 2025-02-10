@@ -36,14 +36,6 @@ This platform presents a scalable business model for on-demand services by suppo
 
 ---
 
-## 🎯 Future Objectives
-
-1. **In-App Payment Integration**: Secure payment gateway for hassle-free transactions.
-2. **User Reviews and Ratings**: Build trust by allowing users to share feedback on service quality.
-3. **Chat Feature**: Real-time messaging with service providers.
-4. **Chatbots**: Implement AI-based chatbots for instant user support.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -61,6 +53,15 @@ This platform presents a scalable business model for on-demand services by suppo
 💾 shared_preferences: For storing user data locally.
 🖼️ image_picker: To select images from the gallery for service uploads.
 📤 firebase_storage: For secure image storage and retrieval from Firebase.
+
+---
+
+## 🎯 Improvements that can be done
+
+1. **In-App Payment Integration**: Secure payment gateway for hassle-free transactions.
+2. **User Reviews and Ratings**: Build trust by allowing users to share feedback on service quality.
+3. **Chat Feature**: Real-time messaging with service providers.
+4. **Chatbots**: Implement AI-based chatbots for instant user support.
 
 ---
 
