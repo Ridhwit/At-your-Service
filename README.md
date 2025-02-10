@@ -1,6 +1,6 @@
 # 👨‍🔧👩‍🔧 At Your Service app
 
-The At Your Service App is a comprehensive service booking platform designed to bridge the gap between customers and service providers. The app enables users to book a variety of services such as cleaning, painting, repairing, and more. By leveraging real-time booking features, Firebase integration, and user-friendly interfaces, the app creates a seamless experience for both service providers and customers.
+The "At Your Service App" is a comprehensive service booking platform designed to bridge the gap between customers and service providers. The app enables users to book a variety of services such as cleaning, painting, repairing, and more. By leveraging real-time booking features, Firebase integration, and user-friendly interfaces, the app creates a seamless experience for both service providers and customers.
 ---
 
 ## 📸 Demo
